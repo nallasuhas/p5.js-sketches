@@ -1,1 +1,2 @@
 - live site: https://nallasuhas.github.io/p5.js-sketches/normal-distribution/index.html
+- sketch: https://editor.p5js.org/nallasuhas/sketches/IAM6MoWCp
